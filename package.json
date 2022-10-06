@@ -158,7 +158,6 @@
 			}
 		]
 	},
-	"svelte": ".",
 	"type": "module",
 	"license": "MIT"
 }
